@@ -1,6 +1,6 @@
 package crypto;
 import java.util.Scanner;
-public class Shell_bonus {
+public class Shell {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
